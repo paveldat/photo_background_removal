@@ -10,12 +10,7 @@
 `python main.py`
 
 ## Result
-Input 1:
-<img src="https://github.com/paveldat/photo_background_removal/blob/main/images/input/1.jpg">
-Output 1:
-<img src="https://github.com/paveldat/photo_background_removal/blob/main/images/output/1.png">
-
 Input 2:
-<img src="https://github.com/paveldat/photo_background_removal/blob/main/images/input/2.jpg">
+<img src="https://github.com/paveldat/photo_background_removal/blob/main/images/input/1.jpg">
 Output 2:
-<img src="https://github.com/paveldat/photo_background_removal/blob/main/images/output/2.png">
+<img src="https://github.com/paveldat/photo_background_removal/blob/main/images/output/1.png">
